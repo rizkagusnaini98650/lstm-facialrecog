@@ -1,0 +1,7 @@
+1. jalankan pip install -r requirements.txt di cmd untuk menginstall library yang dibutuhkan
+2. Jalankan app.py dengan kode editor
+3. pilih unggah dataset pada ui yang muncul, pilih dataset.xlsx, kemudian pilih tombol klasifikasi file
+4. klasifikasi file berjalan
+5. Masukkan teks jika ingin mengkalsifikasikan satu teks saja
+6. Pilih tombol klasifiksi
+7. ui menampilkan hasil klasifikasi

@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+pandas==2.1.4
+numpy==1.26.2
+nltk==3.8.1
+tweet-preprocessor==0.6.0
+openpyxl==3.1.2
+scikit-learn==1.3.2
